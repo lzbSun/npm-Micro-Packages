@@ -1,0 +1,19 @@
+{
+  "name": "is-sorted",
+  "version": "1.0.0",
+  "description": "A small module to check if an Array is sorted",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index"
+  },
+  "keywords": [],
+  "author": "JasonX",
+  "license": "MIT",
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.10.1"
+  }
+}
